@@ -1,0 +1,32 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 0.5rem 1.5rem;
+  text-align: center;
+}
+
+.text-padding{
+padding-left:5px; 
+}
+
+.list-group button{
+
+margin: 0 0 0 15px;
+
+}
+
+.pull-right{ 
+
+margin: -6px !important;
+
+ }
+
+ .done{
+
+text-decoration: line-through;
+color:#ccc;
+
+ }
+
+
